@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewfort" content="width=device-width, initial-scale=1.0">
+    <title>document</title>
+</head>
+<body>
+    <h1>biodata</h1>
+    <p>
+        <label for="">nama:</label>
+        <span id="ferdi supyandi"></span>
+    </p>
+    <p>
+    <label for="">ttl :</label>
+        <span id="04 mei 2004"></span>
+    </p>
+    <p>
+        <label for="">alamat:</label>
+        <span id="sukabumi"></span>
+    </p>
+
+    <script src="app.js"><</script>
+
+
+</body>
+</html>
